@@ -11,10 +11,12 @@
 #### 🛠️ Tech I'm working with
 - **Languages:** C#, Java, JavaScript
 - **Web:** HTML, CSS
+- **Learning:** Python 🐍
 - **Tools:** .NET, Git & GitHub, Visual Studio
 
 #### 🌱 What I'm focused on right now
 - Strengthening my fundamentals in object-oriented programming
+- Currently learning Python and exploring its uses in automation and data
 - Building small projects to apply what I learn
 - Growing toward a career as a software developer
 
