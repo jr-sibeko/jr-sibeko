@@ -19,8 +19,8 @@
 - Growing toward a career as a software developer
 
 #### 📫 How to reach me
-- LinkedIn: *(we'll add this link soon)*
-- Email: *(your professional email)*
+- LinkedIn: [linkedin.com/in/junior-sibeko-207bbb344](https://www.linkedin.com/in/junior-sibeko-207bbb344)
+- Email: sibekontando51@gmail.com
 
 ---
 
